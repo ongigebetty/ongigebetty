@@ -8,19 +8,19 @@ I'd describe myself as the person who bridges the gap between the idea and the t
 
 I pay close attention to detail, I re-learn things from scratch on purpose
 
-# Code
+Code
 Python, Node.js, JavaScript, HTML, CSS, Flutter,
 
-# Design & product
+Design & Product
 Figma, Adobe Suite, Canva, Jira, PostHog
 
-# Data & automation
+Data & Automation
 Power BI, Excel, n8n + many more
 
 ## Fun fact about me 🫠
 I read the terms and conditions and the ingredients behind the cereal box 
 
-## what are you currently working on?
+Currently working on?
 
 ✨Building, automating and figuring out what's next. Always something.✨
 
