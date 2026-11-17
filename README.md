@@ -2,7 +2,7 @@
 
 Betty Moraa Ongige. I'm technical and creative based in Nairobi.
 
-I've work across design, marketing, product, engineering in that order because I enjoy the process of learning and growth
+Over the years, I've work across Graphic Design, Tech Sales, Marketing, Product Management & Engineering in that order 
 
 I'd describe myself as the person who bridges the gap between the idea and the thing that actually works.
 
@@ -22,7 +22,7 @@ I read the terms and conditions and the ingredients behind the cereal box
 
 Currently working on?
 
-✨Building, automating and figuring out what's next. Always something.✨
+✨Building, automating and figuring out what's next. There's always something brewing.✨
 
 <!--
 **ongigebetty/ongigebetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
